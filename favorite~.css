@@ -1,0 +1,28 @@
+/* body {
+  width: 400px;
+  background-color: firebrick;
+  position: relative; /* Added */
+
+  html{
+    background-color: orange;
+  }
+
+
+img {
+  width: 400px;
+  height: 350px;
+  margin: 1px;
+}
+body{
+  margin: auto;
+  padding: 50px;
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.151);
+}
+
+a:hover{
+  color: aqua;
+}
+#title:hover{
+  color: royalblue;
+}
